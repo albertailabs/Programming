@@ -19,4 +19,4 @@
 
 출처
 --
-- [알버트 코딩 스쿨](http://robotcoding.school/albert/ko/download/)
+- [로봇코딩스쿨](http://robotcoding.school/albert/ko/download/)
