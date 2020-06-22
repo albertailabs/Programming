@@ -11,6 +11,6 @@
 
 다운로드
 --
-- 윈도우 32비트용 설치 파일 (655.7 MB) 윈도우 7 이상
+- [윈도우 32비트용 설치 파일](http://www.smartrobotmarket.com/hamster/AlbertCoding-with-entry-win32-v1.8.2.exe) (655.7 MB) 윈도우 7 이상
 - 윈도우 64비트용 설치 파일 (681.3 MB) 윈도우 7 이상
 - OSX 64비트용 설치 파일 (624.8 MB)
